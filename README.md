@@ -32,3 +32,9 @@ Note : Make sure Neo4J DB is running locally.
     ```bash
     pip install -r requirements.txt
     ```
+   
+4. Run 'K-NN' Algorithm on Graph
+
+   ```bash
+   python run_k_nn_algo.py
+   ```
